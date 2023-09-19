@@ -7,5 +7,8 @@ class Employee:
 
 
 Rohan = Employee()
-Rohan.salary = 1000
+Rohan.salary = 1000 # This means the self above represents Rohan.
 #Rohan.empSalary()
+
+
+#See Example3.py
