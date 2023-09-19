@@ -1,0 +1,6 @@
+The best way to open and close the file is with statement.
+
+Syntax:
+
+with open ("file.txt) as f:
+         f.reaf()
