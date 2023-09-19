@@ -1,0 +1,13 @@
+Modes for opening a file.
+
+r - open for reading
+w - open for writing
+a - open for appending
++ - open for updating  --> works for reading and writing. 
+
+'rt' --> this means that we are opening and reading text file. 
+         We don't need to insert t for text files, by defualt it takes it.
+
+'rb' --> this means that we are opening and reading binary file. 
+         Whenever we work on binary file, we need to use b with read mode.
+
