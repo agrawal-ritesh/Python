@@ -1,1 +1,2 @@
 This is how we write the file
+This is how Append mode works. This is how Append mode works.
